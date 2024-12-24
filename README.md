@@ -7,5 +7,5 @@ o arduino ira sortear um led aleatório o qual ficará vermelho, ao apertar o le
 
 ##  Ligações elétricas 
 * ``pino do Buzzer(opcional)``......11
-* ``pino do botão``..........................12
-* ``pino da fita de leds``.............13
+* ``pino do botão``...........................12
+* ``pino da fita de leds``..............13
